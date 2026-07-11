@@ -14,9 +14,6 @@
   font-style: normal;
 }
 
-body{
-    
-}
 p{
     font-family: inter;
     font-weight: 500;
@@ -27,9 +24,6 @@ p{
     justify-content: space-between;
     align-items: center;
     padding: 0 60px;
-}
-nav div ul{
-
 }
 nav div li{
     list-style: none;
